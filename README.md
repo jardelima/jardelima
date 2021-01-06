@@ -11,7 +11,6 @@ Sou desenvolvedor web em formação focado no front-end e às vezes me aventuro 
 * :computer: Front - End com HTML, CSS, Bootstrap, Sass, Javascript
 * :iphone: Web Design com Flexbox e Grid layout
 * :rocket: *Back - End com PHP, SQL (Utilizo às vezes para fazer pequenos CRUDs)*
-
 * :books: *Estudando no momento: Javascript & UI Design*
 
 ### Contact Me
