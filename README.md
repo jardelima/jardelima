@@ -8,9 +8,9 @@ Sou desenvolvedor web em formação focado no front-end e às vezes me aventuro 
 
 ### Technologies
 
-* :computer: Front - End com HTML, CSS, Sass, Javascript
-* :rocket: *Back - End com PHP, SQL (Utilizo às vezes para fazer pequenos CRUDs)*
-* :books: *Estudando no momento: Javascript & UI Design*
+* HTML, CSS, Javascript, SQL;
+* SASS, Bootstrap, Postgresql;
+* Web Design Responsivo.
 
 ### Contact Me
 
