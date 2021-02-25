@@ -4,6 +4,8 @@ I am web developer in traning focused on the front-end and sometimes venture on 
 
 - At the moment I'm going deeper into Javascript.
 
+<img src="http://i1.kym-cdn.com/photos/images/original/000/538/716/7f5.gif" width="120" height="100"/>
+
 ### My Stack
 <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/sass.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25" height="25"/>
 
