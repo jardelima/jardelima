@@ -2,7 +2,7 @@
 
 I am web developer in traning focused on the front-end and sometimes venture on the back-end.
 
-- At the moment I'm going deeper into Javascript.
+At the moment I'm going deeper into Javascript.
 
 <img src="http://i1.kym-cdn.com/photos/images/original/000/538/716/7f5.gif" width="120" height="100"/>
 
