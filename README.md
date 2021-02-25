@@ -3,7 +3,6 @@
 I am web developer in traning focused on the front-end and sometimes venture on the back-end.
 
 - On the moment i'm learning Javascript.
-- <hr>
 
 ### My Stack
 <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/sass.png" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="28" height="28"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25" height="25"/>
