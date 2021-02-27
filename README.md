@@ -1,6 +1,6 @@
 ## Hi, I'm Jardel Lima   <img src="https://img.icons8.com/emoji/50/000000/waving-hand-medium-skin-tone.png" width="20" height="20"/>
 
-I am web developer in traning focused on the front-end and sometimes venture on the back-end.
+I am web developer in traning focused on the front-end.
 
 At the moment I'm going deeper into Javascript.
 
