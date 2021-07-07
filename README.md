@@ -1,4 +1,4 @@
-## Hi, I'm Jardel Lima   <img src="https://img.icons8.com/emoji/50/000000/waving-hand-medium-skin-tone.png" width="20" height="20"/>
+## Hi, I am Jardel Lima   <img src="https://img.icons8.com/emoji/50/000000/waving-hand-medium-skin-tone.png" width="20" height="20"/>
 
 I am web developer focused on the front-end.
 
