@@ -1,4 +1,4 @@
-Desenvolvedor front-end. Atualmente trabalho com diversas montagens de temas Wordpress e com aplicativos em React e React Native.
+Atualmente trabalho com diversas montagens de temas Wordpress e com aplicativos em React e React Native.
 
 #### Stack
 <img src="https://img.shields.io/badge/javascript-gray" /> <img src="https://img.shields.io/badge/typescript-gray" /> <img src="https://img.shields.io/badge/react-gray" /> <img src="https://img.shields.io/badge/react native-gray" />
