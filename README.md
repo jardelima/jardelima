@@ -7,4 +7,5 @@ Atualmente trabalho com diversas montagens de temas Wordpress e com aplicativos 
 
 
 #### Fale comigo
-<img src="https://img.shields.io/badge/linkedin-%231081C2?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjardelima%2F" />
+<a href="https://www.linkedin.com/in/jardelima/"><img src="https://img.shields.io/badge/linkedin-%231081C2?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjardelima%2F" /></a>
+
